@@ -1,0 +1,38 @@
+body {
+
+  background-color: rgb(160, 219, 71) ;
+}
+
+h1 {
+    background-color: red;
+}
+
+#jeden {
+    background-color: yellow;
+}
+
+#dwa {
+    background-color: aqua;
+}
+
+h2 {
+    background-color: bisque;
+}
+
+#l1 {
+    background-color: brown;
+}
+
+#l2 {
+    background-color: blueviolet;
+}
+
+#l3 {
+    background-color: blanchedalmond;
+}
+#l4 {
+background-color: rgb(139, 98, 44);
+}
+#l5 {
+    background-color: azure;
+}
